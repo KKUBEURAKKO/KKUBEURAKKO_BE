@@ -17,4 +17,13 @@ https://www.erdcloud.com/d/NSHRJKDaXjERp2FPf
  > repository도 포함
 
  - api
- > controller에서 받는 request와 service용 request는 분리
+ > controller에서 받는 request와 service용 request는 분리  
+
+## 에러코드표  
+- bad
+
+|제목|내용|설명|
+|------|---|---|
+|506|콘텐츠 없음|서버에서 조회된 데이터가 없을 때|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
