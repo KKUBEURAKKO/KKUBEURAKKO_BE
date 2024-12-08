@@ -18,3 +18,6 @@ https://www.erdcloud.com/d/NSHRJKDaXjERp2FPf
 
  - api
  > controller에서 받는 request와 service용 request는 분리
+ 
+에러코드표  
+ 
